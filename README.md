@@ -12,3 +12,5 @@ This is a business plan for a university project and is only being hosted throug
 -	Financial Forecasts
 -	Financial Requirements
 -	Risk Assessment
+
+##Who is doing what?
