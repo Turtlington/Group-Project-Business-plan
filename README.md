@@ -14,3 +14,8 @@ This is a business plan for a university project and is only being hosted throug
 -	Risk Assessment
 
 ##Who is doing what?
+
+###James
+###Sian
+###Rebecca
+###Stephanie
