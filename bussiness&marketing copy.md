@@ -1,3 +1,0 @@
-#Bussiness and Marketing
-
-jasfkjavshjkfvahsbvfhmabsvm
