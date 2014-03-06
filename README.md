@@ -20,12 +20,18 @@ This is a business plan for a university project and is only being hosted throug
 ###James
 -	Two sections per person
 -	Two sections per person
+
+
 ###Sian
 -	Two sections per person
 -	Two sections per person
+
+
 ###Rebecca
 -	Two sections per person
 -	Two sections per person
+
+
 ###Stephanie
 -	Two sections per person
 -	Two sections per person
