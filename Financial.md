@@ -4,7 +4,7 @@
 
 -	Realistic, specific, Sales forecasts are you financial foundations
 
-A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. 
+A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for are products will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using a premium account.
 
 -	Cashflow 
 
@@ -33,9 +33,9 @@ Balance sheets can also be useful if needed
 
 -	How much, when and in what form
 
-loan,overdrafts...
-
 -	Show how the money will be used
+
+We would need around £30,000 of a loan, also we would like to get around £5,000 overdraft for a safety net, during the first few months. The loan will be used to hire two developers to help us prefect the features on Roler, and to finish of the rest of the features that are still in the Beta stage of development. The money will also be used to pay for advertisements, through out the social networks and other websites of similar genre.
 
 equipment, operational costs...
 
