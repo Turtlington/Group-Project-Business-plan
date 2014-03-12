@@ -3,6 +3,9 @@
 ##Put a number on it 
 
 -	Realistic, specific, Sales forecasts are you financial foundations
+
+A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. 
+
 -	Cashflow 
 
 The amount and timing of money in and out of the bank
