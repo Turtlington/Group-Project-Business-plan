@@ -16,6 +16,8 @@ Show how that there is enough to fuel the business
 
 Shows how the business will move forward over 2 to 3 years
 
+Over the next 2 to 3 years we expect to generate around £1,000,000 in profit it is very low for companies in are sector but Roler could possibly make up to £10,000,000 over the next 2 to 3 years.
+
 Know turnover, gross margin and sales needed to break even
 
 Know how sales projections and break even sales compare
@@ -35,7 +37,7 @@ Balance sheets can also be useful if needed
 
 -	Show how the money will be used
 
-We would need around £30,000 of a loan, also we would like to get around £5,000 overdraft for a safety net, during the first few months. The loan will be used to hire two developers to help us prefect the features on Roler, and to finish of the rest of the features that are still in the Beta stage of development. The money will also be used to pay for advertisements, through out the social networks and other websites of similar genre.
+We would need around £30,000 of a loan or from funding through many different areas, also we would like to get around £5,000 overdraft for a safety net, during the first few months. The loan will be used to hire two developers to help us prefect the features on Roler, and to finish of the rest of the features that are still in the Beta stage of development. The money will also be used to pay for advertisements, through out the social networks and other websites of similar genre.
 
 equipment, operational costs...
 
