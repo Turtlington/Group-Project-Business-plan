@@ -4,7 +4,7 @@
 
 -	Realistic, specific, Sales forecasts are you financial foundations
 
-A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for are products will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using a premium account.
+A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for Roler Premium will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using an account.
 
 -	Cashflow 
 
