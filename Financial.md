@@ -16,8 +16,6 @@ Show how that there is enough to fuel the business
 
 Shows how the business will move forward over 2 to 3 years
 
-Over the next 2 to 3 years we expect to generate around £1,000,000 in profit it is very low for companies in are sector but Roler could possibly make up to £10,000,000 over the next 2 to 3 years.
-
 Know turnover, gross margin and sales needed to break even
 
 Know how sales projections and break even sales compare
