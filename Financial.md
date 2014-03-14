@@ -25,12 +25,13 @@ In year three we hope to expand once again and employ more employees and hopeful
 ##YEAR TWO EXPENDITURE
 |Expenditure       | In           | Out  |
 | ------------- |:-------------:| -----:|
-|Rent     | NA | £0 |
-|Equipment    | NA      |   £2000 |
-|Advertisements| £3825 - £38,250*    |  £5000 |
-|Salary	|NA |£12872.40|
-|Investment | £50,000| NA |
-|Account balance |£33,952.60|
+|Rent     | NA | £23,000 |
+|Other Bills |NA |£2000|
+|Equipment    | NA      |   £12021.03 |
+|Advertisements| £38,250 - £85,000*    |  £10,000 |
+|Salary	|NA |£51,489.6|
+|Investment | £0| NA |
+|Account balance |-£26,308.03|
 
 -	Cashflow 
 
