@@ -10,14 +10,14 @@ We hope that in year two of Roler running that we may reach around 250,000 regis
 
 In year three we hope to expand once again and employ more employees and hopefully have a workforce of around twelve members of staff, we also predict that Roler will reach 600,000 Registered users by the end of the year, if we hit this goal we will be making profits that we can then reinvest back into the company.
 
-
+##YEAR ONE EXPENDITURE
 |Expenditure       | In           | Out  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|Rent     | NA | £0 |
+|Equipment    | NA      |   £200 |
+|Advertisements| £8500 - £85,000*    |  £4250 |
 
-
+*Based on CPM of £0.85 - £8.50, it all depends on the advertisements as they have different CPM's
 
 A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for Roler Premium will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using an account.
 
