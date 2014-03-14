@@ -36,6 +36,20 @@ In year three we hope to expand once again and employ more employees and hopeful
 
 *Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year. The premium account sales is based on us making are target of around 2500 accounts purchase from are predicted 250,000 users.
 
+##YEAR THREE EXPENDITURE
+|Expenditure       | In           | Out  |
+| ------------- |:-------------:| -----:|
+|Rent     | NA | £23,000 |
+|Other Bills |NA |£5000|
+|Equipment    | NA      |   £28914.93 |
+|Advertisements| £38,250 - £225,000*    |  £35,000 |
+|Premuim Accounts|£299,900|NA|
+|Salary	|NA |£128,724|
+|Investment | £0| NA |
+|Account balance |£164,879.94|
+
+*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 100,000,000 views per year. The premium account sales is based on us making are target of around 10,000 accounts purchase from are predicted 600,000 users. The cost for our office space has increase due to needing more space due to hiring more employees.
+
 -	Cashflow 
 
 
