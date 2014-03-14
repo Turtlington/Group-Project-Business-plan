@@ -13,11 +13,11 @@ In year three we hope to expand once again and employ more employees and hopeful
 ##YEAR ONE EXPENDITURE
 |Expenditure & Gain       | In           | Out  |
 | ------------- |:-------------:| -----:|
-|Rent     | NA | £0 |
-|Equipment    | NA      |   £1000 |
+|Rent     | N/A | £0 |
+|Equipment    | N/A      |   £1000 |
 |Advertisements| £382.50 - £2250*    |  £1500 |
-|Salary	|NA |£12872.40|
-|Investment | £50,000| NA |
+|Salary	|N/A |£12872.40|
+|Investment | £50,000| N/A |
 |Account balance |£35,100.10|
 
 *Based on CPM of £0.85 to £5.00, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 1,000,000 views per year, also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
@@ -25,13 +25,13 @@ In year three we hope to expand once again and employ more employees and hopeful
 ##YEAR TWO EXPENDITURE
 |Expenditure & Gain      | In           | Out  |
 | ------------- |:-------------:| -----:|
-|Rent     | NA | £10,000 |
-|Other Bills |NA |£2000|
-|Equipment    | NA      |   £12914.03 |
+|Rent     | N/A | £10,000 |
+|Other Bills |N/A |£2000|
+|Equipment    | N/A      |   £12914.03 |
 |Advertisements| £3825 - £22,500*    |  £3,000 |
-|Premuim Accounts|£74,975|NA|
-|Salary	|NA |£38,617.2|
-|Investment | £0| NA |
+|Premium Accounts|£74,975|N/A|
+|Salary	|N/A |£38,617.2|
+|Investment | £0| N/A |
 |Account balance |£47368.87|
 
 *Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year. The premium account sales is based on us making are target of around 2500 accounts purchase from are predicted 250,000 users.
@@ -39,13 +39,13 @@ In year three we hope to expand once again and employ more employees and hopeful
 ##YEAR THREE EXPENDITURE
 |Expenditure & Gain      | In           | Out  |
 | ------------- |:-------------:| -----:|
-|Rent     | NA | £23,000 |
-|Other Bills |NA |£5000|
-|Equipment    | NA      |   £28914.93 |
+|Rent     | N/A | £23,000 |
+|Other Bills |N/A |£5000|
+|Equipment    | N/A      |   £28914.93 |
 |Advertisements| £38,250 - £225,000*    |  £35,000 |
-|Premuim Accounts|£299,900|NA|
-|Salary	|NA |£128,724|
-|Investment | £0| NA |
+|Premium Accounts|£299,900|N/A|
+|Salary	|N/A |£128,724|
+|Investment | £0| N/A |
 |Account balance |£164,879.94|
 
 *Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 100,000,000 views per year. The premium account sales is based on us making are target of around 10,000 accounts purchase from are predicted 600,000 users. The cost for our office space has increase due to needing more space due to hiring more employees.
