@@ -34,7 +34,7 @@ In year three we hope to expand once again and employ more employees and hopeful
 |Investment | £0| NA |
 |Account balance |£47368.87|
 
-*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year
+*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year. The premium account sales is based on us making are target of around 2500 accounts purchase from are predicted 250,000 users.
 
 -	Cashflow 
 
