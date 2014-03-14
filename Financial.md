@@ -14,24 +14,25 @@ In year three we hope to expand once again and employ more employees and hopeful
 |Expenditure       | In           | Out  |
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £0 |
-|Equipment    | NA      |   £2000 |
-|Advertisements| £3825 - £8500*    |  £5000 |
+|Equipment    | NA      |   £1000 |
+|Advertisements| £382.50 - £2250*    |  £1500 |
 |Salary	|NA |£12872.40|
 |Investment | £50,000| NA |
-|Account balance |£33,952.60|
+|Account balance |£35,100.10|
 
-*Based on CPM of £0.85, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 1,000,000 views per year, also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
+*Based on CPM of £0.85 to £5.00, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 1,000,000 views per year, also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
 
 ##YEAR TWO EXPENDITURE
 |Expenditure       | In           | Out  |
 | ------------- |:-------------:| -----:|
-|Rent     | NA | £23,000 |
+|Rent     | NA | £10,000 |
 |Other Bills |NA |£2000|
-|Equipment    | NA      |   £12021.03 |
-|Advertisements| £38,250 - £85,000*    |  £10,000 |
-|Salary	|NA |£51,489.6|
-|Investment | £0| NA |
-|Account balance |-£26,308.03|
+|Equipment    | NA      |   £12914.03 |
+|Advertisements| £3825 - £22,500*    |  £3,000 |
+|Premuim Accounts|
+|Salary	|NA |£38,617.2|
+|Investment | £25,000| NA |
+|Account balance |-£2604.13|
 
 -	Cashflow 
 
