@@ -7,7 +7,7 @@ Everyone in the team had a unique job role in making the product Roler what it i
 
 
 ##James McCartan
-James is the leader on the project Roler, he made sure that the project was kept to the time scale that had been made in the early stages of planning. James was also the user interface designer on the project he created the simple clean design of Roler and made the features easily accessible.
+James is the leader on the project Roler, he made sure that the project was kept to the time scale that had been made in the early stages of planning. James was also the ux/ui designer on the project he created the simple clean design of Roler and made the features easily accessible.
 
 James has completed a Foundation Degree in Interactive Multimedia. The Foundation Degree gave James the chance to develop his skills at a university level while still in a college environment. The time taken to complete the foundation degree gave James the chance to widen his knowledge of the design world; it also helped him make connections that would lead to a placement position.
 
@@ -38,8 +38,7 @@ Stephanie was a developer on the project Roler. Stephanie was also on the Founda
 
 
 
-
-In the first year the project team will have to maintain the website on their own and the admin roles will be carried out by themselves. By year two the team is planning on out sourcing the admin roles to an automated service and then have admins of trusted users so there is human admin judgements. This would free the team up to focus on the maintenance and improvement of the project. By year three the team hopes to employ a developer and a designer to help with the work. By year five another four employees and then interns would be sauté after. 
+In the first year the project team will have to maintain the website on their own and the admin roles will be carried out by themselves. Eventually after investment after six months the team will hire two part time employees. By year two the team is planning on out sourcing the admin roles to an automated service and then have admins of trusted users so there is human admin judgements. This would free the team up to focus on the maintenance and improvement of the project. By year three the team hopes to employ three full time employees and then start to employ interns.
 
 Risk assessment
 ===========================
