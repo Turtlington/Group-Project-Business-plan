@@ -4,8 +4,7 @@ The team are located in the Belfast area, as these locations range from central 
 
 Due to the need for face to face commutation with the team by year two they team will be looking for office space to so that everyone will have a space to come work at in a structured environment. This will give everyone the chance to work with more efficiently in a professional manner without any home distractions.
 
-Currently the team uses their own laptops to complete the project these are a mixture of PC and Apple Mac laptops. This will be changing when the permanent office space is acquired. Desktops and laptops will be used as well as other devices to make it compatible with devices.
-
+Currently the team uses their own laptops to complete the project these are a mixture of PC and Apple Mac laptops. This will be changing when the permanent office space is acquired. Desktops and laptops will be used as well as other devices to make it compatible with devices. This is essential so we can access our target market that are on the go and may not have the time to spend on a laptop where if they have an idea their tablet or smartphone they can experience the same product on these devices. This would go into development with the help of investment to get us to that position. 
 
 At the moment the team has four members who are also the Co-founders of the project. They are James McCartan, Sian Finlay, Rebecca Ferris and Stephanie Hughes. They all originally had 25% of the business however after investment that would go down to 22.5% each with the 10% left going to the investors.
 
