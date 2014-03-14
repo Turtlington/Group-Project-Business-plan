@@ -6,6 +6,9 @@ On the product Roler there are for the moment four members of the team, they are
 Everyone in the team had a unique job role in making the product Roler what it is, due to the complexity of the project every team member was essential in getting the final product to the stage of completion. 
 
 
+##James McCartan
+James is the leader on the project Roler, he made sure that the project was kept to the time scale that had been made in the early stages of planning. James was also the user interface designer on the project he created the simple clean design of Roler and made the features easily accessible.
+
 Who are the team members?
 What do they do?
 What skills do they have?
