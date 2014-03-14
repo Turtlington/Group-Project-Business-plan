@@ -15,9 +15,9 @@ In year three we hope to expand once again and employ more employees and hopeful
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £0 |
 |Equipment    | NA      |   £200 |
-|Advertisements| £8500 - £85,000*    |  £4250 |
+|Advertisements| £3825 - £38,250*    |  £2000 |
 
-*Based on CPM of £0.85 - £8.50, it all depends on the advertisements as they have different CPM's
+*Based on CPM of £0.85 - £8.50, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 100,000 views also the advertisement company will take 45% of all of the predicted money.
 
 A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for Roler Premium will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using an account.
 
