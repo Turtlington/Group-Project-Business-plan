@@ -1,7 +1,7 @@
 Management
 ===========================
 
-On the product Roler there are for the moment four members of the team, they are the Co-founders James McCartan, Sian Finlay, Rebecca Ferris and Stephanie Hughes. Each of the Co-founders has a share of 20% each in the business with 20% left for investors and backers, this would make investors have a considerably about .
+On the product Roler there are for the moment four members of the team, they are the Co-founders James McCartan, Sian Finlay, Rebecca Ferris and Stephanie Hughes. Each of the Co-founders has a share of 20% each in the business with 20% left for investors and backers.
 
 Everyone in the team had a unique job role in making the product Roler what it is, due to the complexity of the project every team member was essential in getting the final product to the stage of completion. 
 
@@ -9,8 +9,14 @@ Everyone in the team had a unique job role in making the product Roler what it i
 ##James McCartan
 James is the leader on the project Roler, he made sure that the project was kept to the time scale that had been made in the early stages of planning. James was also the user interface designer on the project he created the simple clean design of Roler and made the features easily accessible.
 
-Who are the team members?
-What do they do?
+
+##Sian Finlay
+
+
+##Rebecca Ferris
+
+##Stephanie Hughes
+
 What skills do they have?
 What education do they have in the companys field?
 Do we have any weakness?
