@@ -18,7 +18,7 @@ In year three we hope to expand once again and employ more employees and hopeful
 |Advertisements| £3825 - £38,250*    |  £5000 |
 |Salary	|NA |£12872.40|
 |Investment | £50,000| NA |
-|Account balance |£33,952.60|
+|###Account balance |###£33,952.60|
 
 *Based on CPM of £0.85 - £8.50, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 100,000 views also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
 
