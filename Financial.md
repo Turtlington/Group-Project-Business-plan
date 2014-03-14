@@ -29,10 +29,12 @@ In year three we hope to expand once again and employ more employees and hopeful
 |Other Bills |NA |£2000|
 |Equipment    | NA      |   £12914.03 |
 |Advertisements| £3825 - £22,500*    |  £3,000 |
-|Premuim Accounts|
+|Premuim Accounts|£74,975|NA|
 |Salary	|NA |£38,617.2|
-|Investment | £25,000| NA |
-|Account balance |-£2604.13|
+|Investment | £0| NA |
+|Account balance |£47368.87|
+
+*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year
 
 -	Cashflow 
 
