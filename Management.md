@@ -44,6 +44,6 @@ In the first year the project team will have to maintain the website on their ow
 Risk assessment
 ===========================
 
-One would be that we wouldn't create everything we wanted however we over came that with compromise.
-What are the risks in the market, would the competion be too much for us? 
-Do we have anyone in the company who is a risk or do we need someone that he company depends on?
+In the world of business a company faces many different risks if they plan on their products becoming a success. For Roler there are many outside sources of risk, which include competitors, hackers, and even a power cut could severely damage the product.
+
+A power cut in the office building where the desktops that can access Roler or have new updates needed or promised for that day. If there are no back up files saved on external hard drives that could be taken to a powered location, then the company will have to wait until the power is back online before proceeding with any work. This could be avoided if external hard drives where used and proper planning for example back up generators would be useful in a large business but in a small location moving to a temporary location would be best. 
