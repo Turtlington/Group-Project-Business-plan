@@ -16,7 +16,12 @@ James’s previous experiences of user interface design on his placement setting
 
 
 ##Sian Finlay
-Sian is one of the developers on the project Roler, Sian was a designer at the start of the project but migrated into the development of the project due to the vast need for another developer. Sian is also the vice leader of the project, she would take the role of leader if James was not available. Sian took it upon herself to learn through tutorials, this was due to Sian not being used to the developer end of a project. As time went by Sian was an essential part of the development team and found useful ways to combat problems.
+Sian is one of the developers on the project Roler, Sian was a designer at the start of the project but migrated into the development of the project due to the vast need for another developer. Sian is also the vice leader of the project, she would take the role of leader if James was not available. Sian took it upon herself to learn through tutorials, this was due to Sian not being used to the developer end of a project. As time went by Sian became an essential part of the development team and found useful ways to combat problems.
+
+Sian came from an A-level background into the Bsc Degree in Interactive Multimedia and Design. This meant that Sian didn’t have as much experience in the outside development work environment before coming to the degree however she has made a lot of effort to combat that by getting to know the industry and learning new skills when she came.
+
+Sian had a lot of say when it came to planning the design of the project and it was only halfway though the first stage that we needed to change the group positions. 
+
 
 ##Rebecca Ferris
 
