@@ -6,12 +6,12 @@
 
 The majority of the income that Roler will get from advertisement revenue on the website, along with income from the premium accounts that we have planned to include when Roler is officially out of the Beta, it will cost the user £29.99 annually but if the user signs up during the Beta they will get the first year for free once we are out of Beta. We will need to get investment for the company within the first six months depending on the growth of the community, we hope to reach around 50,000 registered users within the first twelve months of being live. We also believe that around three fifths of these members will become daily users of Roler. We will be seeking to get around £50,000 to cover the costs of running Roler and hiring an extra two developers to join the team and help to keep Roler running and constantly updated. We will not be taking a salary in the first year and will also be working from our individual houses, so that we don't have to pay rent on an office space as it is not needed at the moment.
 
-We hope that in year two of Roler running that we may reach around 250,000 registered users on the site. This year we will look to move into an office and to hire more employees, that will be a marketing and sales manager to take care of the advertisements and partnerships with other companies, we will also look to expand are development team and bring in another UX and UI Designer. These extra staff members will all get a salary but us as the founders will not until we start to make a profit as I see us making a loss until we hit around 150,000 daily users as we would then make enough from advertisement revenue to cover running costs of the business and other expenses such as advertisements, salaries, electric, rent... 
+We hope that in year two of Roler running that we may reach around 250,000 registered users on the site. This year we will look to move into an office and to hire more employees, that will be a marketing and sales manager to take care of the advertisements and partnerships with other companies, we will also look to expand are development team and bring in another UX and UI Designer. These extra staff members will all get a salary but us as the founders will not until we start to make a profit as I see us breaking even or just making enough to cover the necessary bills in the company such as running costs of the business and other expenses such as advertisements, salaries, electric, rent... 
 
-In year three we hope to expand once again and employ more employees and hopefully have a workforce of around twelve members of staff, we also predict that Roler will reach 600,000 Registered users by the end of the year, if we hit this goal we will be making profits that we can then reinvest back into the company.
+In year three we hope to expand once again and employ more employees and hopefully have a workforce of around ten members of staff, we also predict that Roler will reach 600,000 Registered users by the end of the year, if we hit this goal we will be making profits that we can then reinvest back into the company. This year we will also start to take a wage ourselves as the founders of the company, as we have predicted to start making a profit this year.
 
 ##YEAR ONE EXPENDITURE
-|Expenditure       | In           | Out  |
+|Expenditure & Gain       | In           | Out  |
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £0 |
 |Equipment    | NA      |   £1000 |
@@ -23,7 +23,7 @@ In year three we hope to expand once again and employ more employees and hopeful
 *Based on CPM of £0.85 to £5.00, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 1,000,000 views per year, also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
 
 ##YEAR TWO EXPENDITURE
-|Expenditure       | In           | Out  |
+|Expenditure & Gain      | In           | Out  |
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £10,000 |
 |Other Bills |NA |£2000|
@@ -37,7 +37,7 @@ In year three we hope to expand once again and employ more employees and hopeful
 *Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 10,000,000 views per year. The premium account sales is based on us making are target of around 2500 accounts purchase from are predicted 250,000 users.
 
 ##YEAR THREE EXPENDITURE
-|Expenditure       | In           | Out  |
+|Expenditure & Gain      | In           | Out  |
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £23,000 |
 |Other Bills |NA |£5000|
