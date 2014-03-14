@@ -1,7 +1,7 @@
 Management
 ===========================
 
-On the product Roler there are for the moment four members of the team, they are the Co-founders James McCartan, Sian Finlay, Rebecca Ferris and Stephanie Hughes. Each of the Co-founders has a share of 20% each in the business with 20% left for investors and backers.
+On the product Roler there are for the moment four members of the team, they are the Co-founders James McCartan, Sian Finlay, Rebecca Ferris and Stephanie Hughes. Each of the Co-founders has a share of 22.5% each in the business with 10% left for investors and backers.
 
 Everyone in the team had a unique job role in making the product Roler what it is, due to the complexity of the project every team member was essential in getting the final product to the stage of completion. 
 
