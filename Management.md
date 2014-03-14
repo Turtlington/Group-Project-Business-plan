@@ -34,8 +34,10 @@ Rebecca works for a company every so often as and when they need her, they emplo
 ##Stephanie Hughes
 Stephanie was a developer on the project Roler. Stephanie was also on the Foundation degree the same as Rebecca and James. This meant that Stephanie completed a placement position in a development company. The experience in the placement worked to her favour in this project.
 
+In the first year the project team will have to maintain the website on their own and the admin roles will be carried out by themselves. By year two the team is planning on out sourcing the admin roles to an automated service and then have admins of trusted users so there is human admin judgements. This would free the team up to focus on the maintenance and improvement of the project. By year three the team hopes to employ a developer and a designer to help with the work. By year five another four employees and then interns would be sauté after. 
 
 Risk assessment
+===========================
 
 One would be that we wouldn't create everything we wanted however we over came that with compromise.
 What are the risks in the market, would the competion be too much for us? 
