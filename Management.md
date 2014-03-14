@@ -14,8 +14,9 @@ James has completed a Foundation Degree in Interactive Multimedia. The Foundatio
 James’s previous experiences of user interface design on his placement setting, gave him an insight into the user market at the moment. The first hand experience working with users preferences is where the project design for a simple clean website came from, due to users want for easier accessible products.
 
 
-##Sian Finlay
 
+##Sian Finlay
+Sian is one of the developers on the project Roler, Sian was a designer at the start of the project but migrated into the development of the project due to the vast need for another developer. Sian is also the vice leader of the project, she would take the role of leader if James was not available. Sian took it upon herself to learn through tutorials, this was due to Sian not being used to the developer end of a project. As time went by Sian was an essential part of the development team and found useful ways to combat problems.
 
 ##Rebecca Ferris
 
