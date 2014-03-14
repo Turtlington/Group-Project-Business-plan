@@ -9,6 +9,10 @@ Everyone in the team had a unique job role in making the product Roler what it i
 ##James McCartan
 James is the leader on the project Roler, he made sure that the project was kept to the time scale that had been made in the early stages of planning. James was also the user interface designer on the project he created the simple clean design of Roler and made the features easily accessible.
 
+James has completed a Foundation Degree in Interactive Multimedia. The Foundation Degree gave James the chance to develop his skills at a university level while still in a college environment. The time taken to complete the foundation degree gave James the chance to widen his knowledge of the design world; it also helped him make connections that would lead to a placement position.
+
+James’s previous experiences of user interface design on his placement setting, gave him an insight into the user market at the moment. The first hand experience working with users preferences is where the project design for a simple clean website came from, due to users want for easier accessible products.
+
 
 ##Sian Finlay
 
