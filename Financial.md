@@ -15,14 +15,22 @@ In year three we hope to expand once again and employ more employees and hopeful
 | ------------- |:-------------:| -----:|
 |Rent     | NA | £0 |
 |Equipment    | NA      |   £2000 |
+|Advertisements| £3825 - £8500*    |  £5000 |
+|Salary	|NA |£12872.40|
+|Investment | £50,000| NA |
+|Account balance |£33,952.60|
+
+*Based on CPM of £0.85, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 1,000,000 views per year, also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
+
+##YEAR TWO EXPENDITURE
+|Expenditure       | In           | Out  |
+| ------------- |:-------------:| -----:|
+|Rent     | NA | £0 |
+|Equipment    | NA      |   £2000 |
 |Advertisements| £3825 - £38,250*    |  £5000 |
 |Salary	|NA |£12872.40|
 |Investment | £50,000| NA |
-|###Account balance |###£33,952.60|
-
-*Based on CPM of £0.85 - £8.50, it all depends on the advertisements as they have different CPM's. Also based on Roler getting a minimum of 100,000 views also the advertisement company will take 45% of all of the predicted money. The salary is for the developers that we will hire at around six months into the launch of Roler to help with development of the product.
-
-A majority of the income for Roler will be from advertisement revenue, along with that we have plans to include premium accounts that have an annual cost of £29.99. The main buyer for Roler Premium will be hobbyist and casual users of Roler as they will want to unlock all of the available features when using an account.
+|Account balance |£33,952.60|
 
 -	Cashflow 
 
