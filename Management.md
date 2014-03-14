@@ -23,6 +23,7 @@ Sian came from an A-level background into the Bsc Degree in Interactive Multimed
 Sian had a lot of say when it came to planning the design of the project and it was only halfway though the first stage that we needed to change the group positions. 
 
 
+
 ##Rebecca Ferris
 Rebecca is the back end developer on the project, Rebecca created an maintained the databases that where used in the project. Rebecca has had experience with this line of work before as she manages and develops the databases for two online shopping websites. The project team felt this experience gave her insight into what was needed for the projects databases, due to the similarities of storing personal data of our users.
 
@@ -31,8 +32,12 @@ Rebecca completed the same Foundation Degree that James had this meant that ther
 Rebecca works for a company every so often as and when they need her, they employee her to maintain and update their databases and to fix any problems with their projects for example product images being missing. This work gives her the chance to practice her skills on a professional level, these skills where then transferred to the Roler project.
 
 
+
 ##Stephanie Hughes
 Stephanie was a developer on the project Roler. Stephanie was also on the Foundation degree the same as Rebecca and James. This meant that Stephanie completed a placement position in a development company. The experience in the placement worked to her favour in this project.
+
+
+
 
 In the first year the project team will have to maintain the website on their own and the admin roles will be carried out by themselves. By year two the team is planning on out sourcing the admin roles to an automated service and then have admins of trusted users so there is human admin judgements. This would free the team up to focus on the maintenance and improvement of the project. By year three the team hopes to employ a developer and a designer to help with the work. By year five another four employees and then interns would be sauté after. 
 
