@@ -24,15 +24,15 @@ Sian had a lot of say when it came to planning the design of the project and it 
 
 
 ##Rebecca Ferris
+Rebecca is the back end developer on the project, Rebecca created an maintained the databases that where used in the project. Rebecca has had experience with this line of work before as she manages and develops the databases for two online shopping websites. The project team felt this experience gave her insight into what was needed for the projects databases, due to the similarities of storing personal data of our users.
+
+Rebecca completed the same Foundation Degree that James had this meant that there was already a working relationship with them. The working relationship that had already been established meant that it was an easy transition to working in a group it also made Sian more confident in the group she was joining.
+
+Rebecca works for a company every so often as and when they need her, they employee her to maintain and update their databases and to fix any problems with their projects for example product images being missing. This work gives her the chance to practice her skills on a professional level, these skills where then transferred to the Roler project.
+
 
 ##Stephanie Hughes
-
-What skills do they have?
-What education do they have in the companys field?
-Do we have any weakness?
-Who is the leader/ head of the company? This is so we can say who has the final say.
-Are we going to hire anyone?
-Have we asked anyone for help with the project?
+Stephanie was a developer on the project Roler. Stephanie was also on the Foundation degree the same as Rebecca and James. This meant that Stephanie completed a placement position in a development company. The experience in the placement worked to her favour in this project.
 
 
 Risk assessment
