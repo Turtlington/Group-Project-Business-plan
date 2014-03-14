@@ -1,0 +1,9 @@
+#Executive summary
+
+Roler is a creative space, which provides the user with a community to interact with along with all the potential tools that they need to develop there creative ideas. The advantages of Roler over the competitors on the market is that it takes a fresh and new style to the look and the way its features work unlike its competitors which are outdated, clutter...
+
+Rolers potential market is vast as it spans across many different sub-sections of the social media market. The opportunity that Roler is taking advantage of is that it has combined the best features from many sites but at the same time has improved on them. Which makes us unique as we can cater for users in many different fields of creative design, writing, illustration... 
+
+Roler has four team members at the current time, this consists of James, Sian, Rebecca and Stephanie. We have worked together to create Roler to be the product to fill a gap in a huge potential market that is available. So far in are track record we are still just students, but since starting Roler we have had a fresh outlook of the market. Though currently Roler is only in the Beta stage of development we want to have it rolled out and out of Beta by 2015.
+
+We have predicted that we could potentially make a profit in the first year if we receive the funding that is necessary to getting Roler out of beta, but we are prepared to take a loss if need be. The funding we require to get Roler going is £50,000 which would keep us in the positive over the first year and a half with the funder getting potential return by year three with a 10% extra on their investment into Roler. 
