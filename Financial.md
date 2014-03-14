@@ -45,10 +45,10 @@ In year three we hope to expand once again and employ more employees and hopeful
 |Advertisements| £38,250 - £225,000*    |  £35,000 |
 |Premium Accounts|£299,900|N/A|
 |Salary	|N/A |£128,724|
-|Investment | £0| N/A |
-|Account balance |£164,879.94|
+|Investment | £0| £55,000 |
+|Account balance |£109,879.94|
 
-*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 100,000,000 views per year. The premium account sales is based on us making are target of around 10,000 accounts purchase from are predicted 600,000 users. The cost for our office space has increase due to needing more space due to hiring more employees.
+*Based on CPM of £0.85 to £5.00, Also Roler will have to achieve getting 100,000,000 views per year. The premium account sales is based on us making are target of around 10,000 accounts purchase from are predicted 600,000 users. The cost for our office space has increase due to needing more space due to hiring more employees. This year we will pay back our funders and give them 10% on top of that with them also receiving money more regularly from us, as they are a stake holder in the company.
 
 -	Cashflow 
 
